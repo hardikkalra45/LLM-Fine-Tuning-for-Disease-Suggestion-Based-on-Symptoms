@@ -53,7 +53,7 @@ The `fine_tuning.ipynb` notebook contains 11 sections:
 
 ### Section 7: Fine-tune the Model
 - Execute training loop with specified hyperparameters
-- Minimum 2 epochs training
+- Training for 2 epochs
 - Displays training loss and duration
 
 ### Section 8: Save the Fine-tuned Model
