@@ -150,7 +150,4 @@ The training data and model are simplified for educational demonstration and do 
 - **Training Framework**: Hugging Face Trainer
 - **Evaluation Metrics**: Confusion Matrix, Accuracy, Precision, Recall, F1-Score
 
-## Completion Date
-**December 8, 2025**
-
 ---
