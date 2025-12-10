@@ -1,4 +1,4 @@
-# LLM Fine-Tuning for Disease Suggestion - Assignment Completion
+# LLM Fine-Tuning for Disease Suggestion
 
 ## Project Overview
 This project implements fine-tuning of an open-source Large Language Model (LLM) to suggest medical conditions based on patient symptoms. The assignment has been completed with all required components.
