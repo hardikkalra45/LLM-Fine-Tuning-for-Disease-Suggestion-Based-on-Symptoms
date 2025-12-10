@@ -23,7 +23,7 @@ The `fine_tuning.ipynb` notebook contains 11 sections:
   - Includes sample data for demonstration
 - **Step 2**: Create training and test JSONL files
   - Converts CSV data into instruction-following format
-  - 75-15-15 train-validation-test split
+  - 70-15-15 train-validation-test split
   - Generates `train.jsonl` and `test.jsonl`
 
 ### Section 3: Load Pre-trained Model and Tokenizer
